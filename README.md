@@ -2,7 +2,7 @@
 Repository for the QA Assessment in Wiley.
 
 ## Requirements
-- Python 3.9.0b3
+- Python 3.9.0b3;
 - Chromedriver;
 - Selenium;
 - unittest;
