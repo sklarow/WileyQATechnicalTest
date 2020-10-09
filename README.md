@@ -22,7 +22,7 @@ Repository for the QA Assessment in Wiley.
  **Then** I see "Allan Sklarow" on the main page  
   
 ## The approach:
-I could used RobotFramework to do this, but I made a very simple code using Python and the POM pattern, that I think is more suitable for the assessment!  
+I could use RobotFramework to do this, but I made a very simple code using Python and the POM pattern, that I think is more suitable for the assessment!  
 - The **locators** are at Resources/Locators
 - The **Test Data** (login, URL, etc) are at Resoures/TestData
 - For simplicity, I put all the 3 **Page Objects** in one file Resources/PO/Pages
