@@ -19,7 +19,7 @@ Repository for the QA Assessment in Wiley.
  **And** I click the Next button;  
  **And** I type "Testing123!" in the password field  
  **And** I press the "Submit" button  
- **And** I see "Allan Sklarow" on the main page  
+ **Then** I see "Allan Sklarow" on the main page  
   
 ## The approach:
 I could used RobotFramework to do this, but I made a very simple code using Python and the POM pattern, that I think is more suitable for the assessment!  
